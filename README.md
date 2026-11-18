@@ -23,4 +23,4 @@ Six years ago before research, I worked as a clinical psychologist and therapist
 R · RStudio · Git/GitHub · EEG
 
 ### Contact
-📫 [your.name@studenti.unipd.it](mailto:your.name@studenti.unipd.it) · [ORCID](https://orcid.org/your-id) · [LinkedIn](https://linkedin.com/in/your-profile)
+📫 [yasin.farshchitabrizi@studenti.unipd.it](yasin.farshchitabrizi@studenti.unipd.it) · [ORCID](https://orcid.org/your-id) · [LinkedIn](https://linkedin.com/in/your-profile)
