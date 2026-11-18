@@ -11,7 +11,7 @@ my MSc in Educational and Developmental Psychology at the University of Padova.
 - Open science and computational reproducibility
 
 ### Background
-Six years ago before research, I worked as a clinical psychologist and therapist in Iran, with children, adolescents and adults
+Before moving into research, I worked for six years as a clinical psychologist and therapist in Iran, with children, adolescents and adults
 (schema therapy, addiction treatment). That clinical experience shapes the questions I care about in research.
 
 ### What I'm working on
@@ -23,4 +23,4 @@ Six years ago before research, I worked as a clinical psychologist and therapist
 R · RStudio · Git/GitHub · EEG
 
 ### Contact
-📫 [yasin.farshchitabrizi@studenti.unipd.it](yasin.farshchitabrizi@studenti.unipd.it) · [ORCID]([https://orcid.org/your-id](https://orcid.org/0000-0002-1455-9257)) · [LinkedIn](www.linkedin.com/in/yasin-farshchi-tabrizi-0b48b0112)
+📫 [yasin.farshchitabrizi@studenti.unipd.it](mailto:yasin.farshchitabrizi@studenti.unipd.it) · [ORCID](https://orcid.org/0000-0002-1455-9257) · [LinkedIn](https://www.linkedin.com/in/yasin-farshchi-tabrizi-0b48b0112/)
