@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Yasin 👋
 
-<!--
-**yasinfarshchi/yasinfarshchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a psychologist moving into cognitive neuroscience research. I'm currently an Erasmus research trainee at the
+[Basque Center on Cognition, Brain and Language (BCBL)](https://www.bcbl.eu), Donostia-San Sebastián, while completing
+my MSc in Educational and Developmental Psychology at the University of Padova.
 
-Here are some ideas to get you started:
+### Research interests
+- Visual perception, especially peripheral vision
+- EEG and the neural basis of perception and attention
+- Developmental and clinical psychology
+- Open science and computational reproducibility
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Background
+Six years ago before research, I worked as a clinical psychologist and therapist in Iran, with children, adolescents and adults
+(schema therapy, addiction treatment). That clinical experience shapes the questions I care about in research.
+
+### What I'm working on
+- 🔬 EEG research in the Ruzzoli lab at BCBL
+- 🔁 Learning to run computational reproducibility checks with [reprocheck](https://github.com/perakakis/reprocheck)
+- 🌱 Building my skills in R, Git and reproducible research workflows
+
+### Tools
+R · RStudio · Git/GitHub · EEG
+
+### Contact
+📫 [your.name@studenti.unipd.it](mailto:your.name@studenti.unipd.it) · [ORCID](https://orcid.org/your-id) · [LinkedIn](https://linkedin.com/in/your-profile)
