@@ -20,7 +20,7 @@ Before moving into research, I worked for six years as a clinical psychologist a
 - 🌱 Building my skills in R, Git and reproducible research workflows
 
 ### Tools
-R · RStudio · Git/GitHub · EEG
+R · RStudio · Git/GitHub · EEG · Python
 
 ### Contact
 📫 [yasin.farshchitabrizi@studenti.unipd.it](mailto:yasin.farshchitabrizi@studenti.unipd.it) · [ORCID](https://orcid.org/0000-0002-1455-9257) · [LinkedIn](https://www.linkedin.com/in/yasin-farshchi-tabrizi-0b48b0112/)
